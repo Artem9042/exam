@@ -1,0 +1,2 @@
+C:\Users\bd121\source\repos\exam\Debug\exam.exe
+C:\Users\bd121\source\repos\exam\Debug\exam.pdb
